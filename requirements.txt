@@ -1,4 +1,12 @@
 langchain
 langchain-anthropic
 langchain-openai
+langchain-google-genai
 dotenv
+streamlit
+pydantic
+langchain-groq
+langchain-ollama
+langchain-community
+serpapi-search-tools[langchain]
+langgraph
